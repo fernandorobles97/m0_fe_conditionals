@@ -1,8 +1,8 @@
 # Self Evaluation
 
-1. How confident do you feel in your understanding and fluency with the comparison operators?
-1. How confident do you feel in your understanding and fluency with the logical operators?
-1. How confident do you feel in your understanding and fluency with the if statements?
-1. How much time did you spend on this lesson/topic? How did that line up with your time estimate?
-1. What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?
-1. What questions do you still have? How will you get the answers you need?
+1. How confident do you feel in your understanding and fluency with the comparison operators? I feel confident enough with them, but I will definitely continue to practice using them so that in the future there's no confusion about if I'm using the operators or not.
+1. How confident do you feel in your understanding and fluency with the logical operators? With logical operators, I feel more confident that I won't mix the two up when I'm in a spot where I need to use one or the other. 
+1. How confident do you feel in your understanding and fluency with the if statements? I feel more confident using if statements after working on the spicy code challenge because I learned that the if statement will always return the suggested output if it is proven true. For instance, if there's an else if statement down the line that has the same condition as the initial if statement, but with a bit more added to it that also proves to be true, you will still only see the output returned for the initial if statement.
+1. How much time did you spend on this lesson/topic? How did that line up with your time estimate? I expected to spend maybe 2 hours on this since we worked on a lot of it in our previous session but was surprised when it actually took over 3 hours to figure everything out.
+1. What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that? Practice on all of these topics would do me good. I definitely want to work on the remaining code challenges for additional practice. I've already had to adjust my calendar since this assignment took more time than expected, but will most likely make more adjustments so I can feel more confident in my use of all the concepts from the conditionals assignment.
+1. What questions do you still have? How will you get the answers you need? For any new questions that come up, I'll continue to use online resources to try and discover the answer on my own, and if I find no luck there, I will most likely see if anyone in small group has any ideas for the problem at hand. 
