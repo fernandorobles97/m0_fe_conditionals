@@ -11,7 +11,7 @@
   // if it is snowy, print "coat"
   // if it is icy, print "yak traks"
 
-var weather = "sunny"
+var weather = "rainy"
 
 if (weather === "sunny") {
   console.log("sunscreen");
@@ -28,7 +28,6 @@ if (weather === "sunny") {
 // Experiment with manipulating the value held in variable 'weather'
 // to print something other than 'coat'
 
-
 // ##################
 // Using the numQuarters variable defined below, determine
 // if you have enough money to buy a gumball. A gumball costs
@@ -39,6 +38,13 @@ if (weather === "sunny") {
 // "I don't have enough money for a gumball". Write a 
 // conditional statement that prints only one or the other.
 
+var numQuarters = 1
+
+if (numQuarters >= 2) {
+  console.log("I have enough money for a gumball");
+} else { 
+console.log("I don't have enough money for a gumball");
+  }
 // Experiment with manipulating the value held within numQuarters
 // to make sure both conditions can be achieved.
 
@@ -48,7 +54,7 @@ console.log("I have enough money for a gumball");
 console.log("I don't have enough money for a gumball");
 
 
-// #####################
+// #####################  
 // Using the variables defined below, write code that will tell you
 // if you have the ingredients to make a pizza. A pizza requires 
 // at least two cups of flour and sauce.
@@ -58,6 +64,23 @@ console.log("I don't have enough money for a gumball");
 // If cupsOfFlour = 5 and hasSauce = false, print "I cannot make pizza"
 // If cupsOfFlour = 2 and hasSauce = true, print "I can make pizza"
 // If cupsOfFlour = 3 and hasSauce = true, print "I can make pizza"
+
+var cupsOfFlour = 9
+var hasSauce = false
+
+if (cupsOfFlour >= 2 && hasSauce === true) {
+  console.log("I can make pizza");
+} else if (cupsOfFlour === 1 && hasSauce === true) {
+  console.log("I cannot make pizza");
+} else if (cupsOfFlour === 5 && hasSauce === false) {
+  console.log("I cannot make pizza");
+} else if (cupsOfFlour === 2 && hasSauce === true) {
+  console.log("I can make pizza");
+} else if (cupsOfFlour === 3 && hasSauce === true) {
+  console.log("I can make pizza");
+} else {
+  console.log("I cannot make pizza");
+}
 
 // Experiment with manipulating the value held within both variables
 // to make sure all above conditions output what you expect.
